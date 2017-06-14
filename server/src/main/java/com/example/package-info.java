@@ -1,3 +1,3 @@
 /**this is new
-package*//
+package*/
 package com.example;
